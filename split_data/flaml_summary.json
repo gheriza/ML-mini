@@ -1,0 +1,22 @@
+{
+    "best_estimator": "xgb_limitdepth",
+    "best_config": {
+        "n_estimators": 24,
+        "max_depth": 6,
+        "min_child_weight": 3.553185150284507,
+        "learning_rate": 0.009680925420384862,
+        "subsample": 0.8392321560768398,
+        "colsample_bylevel": 0.9729014252740672,
+        "colsample_bytree": 0.9304022295909337,
+        "reg_alpha": 0.023847394868221572,
+        "reg_lambda": 111.95524539853601
+    },
+    "best_validation_loss": 0.3239831697054698,
+    "training_time_seconds": 60.17611742019653,
+    "test_metrics": {
+        "Accuracy": 0.515,
+        "Precision": 0.511265164644714,
+        "Recall": 0.9703947368421053,
+        "F1-score": 0.6696935300794552
+    }
+}

@@ -1,0 +1,5 @@
+Metric,FLAML Test Score
+Accuracy,0.515
+Precision,0.511265164644714
+Recall,0.9703947368421053
+F1-score,0.6696935300794552
